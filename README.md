@@ -39,7 +39,7 @@ It's a Photo editing app in which you can use live webcam.<br />
 
 |                               |                               |                               |
 | :---------------------------: | :---------------------------: | :---------------------------: |
-| ![Imgur](Screenshots/2022-05-29 (1).png) | ![Imgur](Screenshots/2022-05-29.png) | ![Imgur](Screenshots/2022-05-29 (2).png) |
+| ![Imgur](Screenshots/2022-05-29(1).png) | ![Imgur](Screenshots/2022-05-29.png) | ![Imgur](Screenshots/2022-05-29 (2).png) |
 | ![Imgur](Screenshots/2022-05-29 (3).png) | ![Imgur](Screenshots/2022-05-29 (4).png) | ![Imgur](Screenshots/2022-05-29 (5).png) |
 | ![Imgur](Screenshots/2022-05-29 (6).png) | ![Imgur](Screenshots/2022-05-29 (7).png) | ![Imgur](Screenshots/2022-05-29 (8).png) |
 > > > > > > > a07f8e0542b25e2e58c24658e920cad6f359a543
