@@ -8,7 +8,7 @@ This is a Web Application developed for Microsoft Intern Engage 2022 Programme.<
 It's a Photo editing app in which you can use live webcam.<br />
 
 ## 📕 Resources
-- Video demo link - [Drive]([https://www.youtube.com/watch?v=toJiBPxem5I&ab_channel=LitCoder](https://drive.google.com/file/d/1pB4BTiYFOjpPZTc4IMpA1RT8QBPiQVLA/view?usp=sharing))
+- Video demo link - https://www.youtube.com/watch?v=toJiBPxem5I&ab_channel=LitCoder](https://drive.google.com/file/d/1pB4BTiYFOjpPZTc4IMpA1RT8QBPiQVLA/view?usp=sharing
 
 ## 💻 Tech Stack used 
 - **Python** - [**Designed using Python**](https://img.icons8.com/color/344/python--v1.png)
